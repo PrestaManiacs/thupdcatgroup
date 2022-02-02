@@ -12,7 +12,7 @@ Easy to configure
 
 No coding needed. You can customize certain appearance settings directly from the module configuration page.
 
-Download [here](https://prestamaniacs.com/free-modules/87-mass-update-for-category-groups-access-module.html)
+View more details [here](https://prestamaniacs.com/free-modules/87-mass-update-for-category-groups-access-module.html).
 
 ## About us
 Addons - https://addons.prestashop.com/en/244_thecon
