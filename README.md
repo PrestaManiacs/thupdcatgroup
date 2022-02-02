@@ -1,5 +1,4 @@
-# thupdcatgroup
-Massively updates the access of customer groups for product categories.
+# Massively updates the access of customer groups for product categories.
 
 
 ## Features
